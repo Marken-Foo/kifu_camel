@@ -1,0 +1,5 @@
+(library
+ (name kifu_camel)
+ (libraries angstrom)
+ (flags
+  (:standard -warn-error -32)))

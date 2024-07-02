@@ -1,0 +1,5 @@
+(executable
+ (public_name kifu_camel)
+ (name main)
+ (libraries kifu_camel)
+ (modules main))
